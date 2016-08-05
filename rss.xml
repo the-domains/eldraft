@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[eldraft]]></title>
+        <description><![CDATA[eldraft]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Aug 2016 18:18:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87ba75af-c1db-402a-a202-3ba9ba588a61.jpg">]]></description>
+            <link>undefinedproximamente-el-draftmx/index.html</link>
+            <guid isPermaLink="false">d85f9e73-e369-4780-876d-de76412a3b71</guid>
+            <pubDate>Fri, 05 Aug 2016 18:18:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
