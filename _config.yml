@@ -1,19 +1,4 @@
-name: eldraft
-favicon: null
-layout_spectrum: 0.009297854267060757
 typography_spectrum: 0.7350908350199461
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,20 @@ color:
   lightness: 0.7646333859302104
   saturation: 0.4570215486455709
   rhythmicContrast: 0.20868778112344444
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.009297854267060757
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: eldraft
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: eldraftmx
 purpose: []
